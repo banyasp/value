@@ -1,3 +1,4 @@
+# Author: Peter Banyas - April 6
 import queue
 import threading
 import time
